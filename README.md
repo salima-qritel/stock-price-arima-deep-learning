@@ -1,4 +1,4 @@
-# 📈 Apple Stock Price Prediction (1980–2021)
+# 📈 Time Series Forecasting of Apple Stock Price Using ARIMA and Deep Learning Models
 
 ## 📌 Project Description
 This project focuses on **analyzing and predicting Apple Inc. stock prices** using historical data from 1980 to 2022.  
